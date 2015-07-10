@@ -23,11 +23,11 @@ body {
 .top-swoosh > .top,
 .top-swoosh > .swoosh,
 .top-swoosh > .bottom {
-	background: url('img/sprite_reserved.png?t=20130919') no-repeat transparent;
+	background: url('http://cultureconference2015.com/__customer_validation/img/sprite_reserved.png?t=20130919') no-repeat transparent;
 }
 
 .top-swoosh > .content {
-	background: url('img/img_bg_content.png') repeat-y transparent;
+	background: url('http://cultureconference2015.com/__customer_validation/img/img_bg_content.png') repeat-y transparent;
 	padding: 10px 18px 40px 18px;
 	line-height: 1.4em;
 	padding-left: 45px;
@@ -54,7 +54,7 @@ body {
 }
 
 .logo {
-	background: url('img/sprite_reserved.png?t=20130919') 0 -250px no-repeat transparent;
+	background: url('http://cultureconference2015.com/__customer_validation/img/sprite_reserved.png?t=20130919') 0 -250px no-repeat transparent;
 	display: block;
 	height: 0;
 	margin-bottom: 0;
@@ -83,7 +83,7 @@ body {
 }
 
 .languages a {
-	background: url('img/sprite_reserved.png?t=20130919') -28px -500px no-repeat transparent;
+	background: url('http://cultureconference2015.com/__customer_validation/img/sprite_reserved.png?t=20130919') -28px -500px no-repeat transparent;
 	font-size: 0;
 	line-height: 0;
 	height: 0;
@@ -126,7 +126,7 @@ body {
 }
 
 .products li {
-	background: url('img/sprite_reserved.png?t=20130919') -18px -300px no-repeat transparent;
+	background: url('http://cultureconference2015.com/__customer_validation/img/sprite_reserved.png?t=20130919') -18px -300px no-repeat transparent;
 	cursor: pointer;
 	height: 50px;
 	margin-top: 10px;
@@ -153,7 +153,7 @@ body {
 }
 
 .item-image {
-	background: url('img/sprite_reserved.png?t=20130919') 0 -377px no-repeat transparent;
+	background: url('http://cultureconference2015.com/__customer_validation/img/sprite_reserved.png?t=20130919') 0 -377px no-repeat transparent;
 	left: 20px;
 	padding: 35px;
 	position: absolute;
@@ -169,7 +169,7 @@ body {
 }
 
 .item-url {
-	background: url('img/sprite_reserved.png?t=20130919') 100px -448px no-repeat transparent;
+	background: url('http://cultureconference2015.com/__customer_validation/img/sprite_reserved.png?t=20130919') 100px -448px no-repeat transparent;
 	display: block;
 	padding: 19px 240px 10px 110px;
 	position: absolute;
