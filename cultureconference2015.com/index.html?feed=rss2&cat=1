@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Culture Conference 2015 &#187; Uncategorised</title>
+	<atom:link href="http://cultureconference2015.com/?feed=rss2&#038;cat=1" rel="self" type="application/rss+xml" />
+	<link>http://cultureconference2015.com</link>
+	<description>The Origins and Transmission of Culture (OToC): An interdisciplinary approach</description>
+	<lastBuildDate>Sat, 30 May 2015 14:13:43 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.2.2</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>http://cultureconference2015.com/?p=1</link>
+		<comments>http://cultureconference2015.com/?p=1#comments</comments>
+		<pubDate>Mon, 09 Mar 2015 15:31:18 +0000</pubDate>
+		<dc:creator><![CDATA[eva]]></dc:creator>
+				<category><![CDATA[Uncategorised]]></category>
+
+		<guid isPermaLink="false">http://cultureconference2015.com/?p=1</guid>
+		<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!]]></description>
+				<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start blogging!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://cultureconference2015.com/?feed=rss2&#038;p=1</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
