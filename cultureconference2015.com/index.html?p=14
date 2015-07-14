@@ -116,32 +116,7 @@ img.emoji {
 
 					<div class="entry-content">
 						<p>Questions or comments? We are looking forward to hearing from you!</p>
-<p><span class="cntctfrm_shortcode"><form method="post" id="cntctfrm_contact_form" class="cntctfrm_contact_form" action="index.html?p=14#cntctfrm_contact_form" enctype="multipart/form-data"><div class="cntctfrm_label cntctfrm_label_name">
-					<label for="cntctfrm_contact_name">Name: <span class="required">*</span></label></div><div class="cntctfrm_input cntctfrm_input_name">
-					<input class="text" type="text" size="40" value="" name="cntctfrm_contact_name" id="cntctfrm_contact_name" /></div><div class="cntctfrm_label cntctfrm_label_email">
-					<label for="cntctfrm_contact_email">Email Address: <span class="required">*</span></label>
-				</div><div class="cntctfrm_input cntctfrm_input_email">
-					<input class="text" type="text" size="40" value="" name="cntctfrm_contact_email" id="cntctfrm_contact_email" />
-				</div>
-			<div class="cntctfrm_label cntctfrm_label_subject">
-					<label for="cntctfrm_contact_subject">Subject: <span class="required">*</span></label>
-				</div><div class="cntctfrm_input cntctfrm_input_subject">
-					<input class="text" type="text" size="40" value="" name="cntctfrm_contact_subject" id="cntctfrm_contact_subject" />
-				</div>
-
-				<div class="cntctfrm_label cntctfrm_label_message">
-					<label for="cntctfrm_contact_message">Message: <span class="required">*</span></label>
-				</div><div class="cntctfrm_input cntctfrm_input_message">
-					<textarea rows="5" cols="30" name="cntctfrm_contact_message" id="cntctfrm_contact_message"></textarea>
-				</div><div class="cntctfrm_checkbox cntctfrm_checkbox_send_copy">
-						<input type="checkbox" value="1" name="cntctfrm_contact_send_copy" id="cntctfrm_contact_send_copy" />
-						<label for="cntctfrm_contact_send_copy">Send me a copy</label>
-					</div><div class="cntctfrm_input cntctfrm_input_submit"><input type="hidden" value="send" name="cntctfrm_contact_action"><input type="hidden" value="Version: 3.30" />
-					<input type="hidden" value="en" name="cntctfrm_language">
-					<input type="hidden" value="1" name="cntctfrm_form_submited">
-					<input type="submit" value="Submit" class="cntctfrm_contact_submit" />
-				</div>
-				</form></span></p>
+<p><a href="mailto:CultureConference@contacts.bham.ac.uk">CultureConference@contacts.bham.ac.uk</a></p>
 											</div><!-- .entry-content -->
 
 					<footer class="entry-meta">
